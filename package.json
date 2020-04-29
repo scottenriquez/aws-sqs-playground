@@ -1,0 +1,23 @@
+{
+  "name": "aws-sqs-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "receive.js",
+  "dependencies": {
+    "aws-sdk": "^2.665.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottenriquez/aws-sqs-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottenriquez/aws-sqs-playground/issues"
+  },
+  "homepage": "https://github.com/scottenriquez/aws-sqs-playground#readme"
+}
